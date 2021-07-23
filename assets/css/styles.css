@@ -300,6 +300,15 @@ img{
 .skills__ux{
   width: 85%;
 }
+.skills__python {
+  width: 60%;
+}
+.skills__react {
+  width: 30%;
+}
+.skills__django {
+  width: 55%;
+}
 .skills__img{
   border-radius: .5rem;
 }
@@ -438,6 +447,8 @@ img{
     justify-items: center;
   }
 }
+
+
 
 @media screen and (min-width: 1024px){
   .bd-grid{
